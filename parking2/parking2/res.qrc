@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1/picture">
+        <file>picture/草坪2975.jpg</file>
+        <file>picture/tree.jpg</file>
+        <file>picture/tree1.jpg</file>
+        <file>picture/cc.png</file>
+        <file>picture/sdff.png</file>
+        <file>picture/zuo.png</file>
+        <file>picture/shang.png</file>
+        <file>picture/you.png</file>
+    </qresource>
+</RCC>
