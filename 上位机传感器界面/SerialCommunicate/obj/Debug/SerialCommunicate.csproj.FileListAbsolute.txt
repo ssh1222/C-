@@ -1,0 +1,101 @@
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\VS上位机\C#资料2-18\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\VS上位机\C#资料2-18\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+E:\VS上位机\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\VS上位机\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+E:\VS上位机\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+E:\VS上位机\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+E:\VS上位机\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+E:\VS上位机\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+E:\VS上位机\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+E:\VS上位机\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+F:\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+F:\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+F:\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+F:\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+F:\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+F:\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+F:\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+F:\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+F:\显示温度上位机\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+F:\显示温度上位机\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+F:\DS18B20上位机\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+F:\DS18B20上位机\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+F:\DS18B20上位机\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+F:\DS18B20上位机\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+F:\DS18B20上位机\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+F:\DS18B20上位机\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+F:\DS18B20上位机\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+F:\DS18B20上位机\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+F:\DS18B20上位机 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+F:\DS18B20上位机 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+F:\DS18B20上位机 - 副本\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+F:\DS18B20上位机 - 副本\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+F:\DS18B20上位机 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+F:\DS18B20上位机 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+F:\DS18B20上位机 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+F:\DS18B20上位机 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+F:\地下隧道水位监测与预警系统 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+F:\地下隧道水位监测与预警系统 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+F:\地下隧道水位监测与预警系统 - 副本\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+F:\地下隧道水位监测与预警系统 - 副本\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+F:\地下隧道水位监测与预警系统 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+F:\地下隧道水位监测与预警系统 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+F:\地下隧道水位监测与预警系统 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+F:\地下隧道水位监测与预警系统 - 副本\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+F:\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+F:\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.CoreCompileInputs.cache
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+F:\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.exe.manifest
+F:\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.application
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.TrustInfo.xml
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.exe.manifest
+F:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.application
+G:\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.exe.manifest
+G:\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.application
+G:\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+G:\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.csprojAssemblyReference.cache
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.cache
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.CoreCompileInputs.cache
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.TrustInfo.xml
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.exe.manifest
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.application
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+G:\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.exe.manifest
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.application
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.TrustInfo.xml
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.exe.manifest
+C:\Users\admin\Desktop\智慧月子中心\SerialCommunicate\obj\Debug\SerialCommunicate.application
