@@ -1,0 +1,57 @@
+﻿生成启动时间为 2019/8/22 19:09:18。
+     1>项目“E:\VS\c++\BagRSA\BagRSA\BagRSA.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /IE:\VS\boost\boost_1_70_0 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D BOOST_NO_CXX11_TEMPLATE_ALIASES /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BagRSA.cpp test.cpp
+         BagRSA.cpp
+         NOTE: Use of this header (boost/multiprecision/random.hpp) is deprecated: please use the random number library headers directly.
+     1>e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(29): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+     1>e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(58): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+     1>e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(120): warning C4244: “参数”: 从“time_t”转换到“const uint32_t”，可能丢失数据
+     1>e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(123): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(135): warning C4244: “参数”: 从“time_t”转换到“const uint32_t”，可能丢失数据
+     1>e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(138): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(172): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>e:\vs\boost\boost_1_70_0\boost\random\traits.hpp(71): error C2338: (std::numeric_limits<T>::is_signed == false) || (std::numeric_limits<T>::is_bounded == false)
+                 e:\vs\boost\boost_1_70_0\boost\random\traits.hpp(90): 参见对正在编译的类 模板 实例化“boost::random::traits::make_unsigned_or_unbounded_imp<T,false>”的引用
+                 with
+                 [
+                     T=boost::multiprecision::int1024_t
+                 ]
+                 e:\vs\boost\boost_1_70_0\boost\random\uniform_int_distribution.hpp(55): 参见对正在编译的类 模板 实例化“boost::random::traits::make_unsigned_or_unbounded<T>”的引用
+                 with
+                 [
+                     T=boost::multiprecision::int1024_t
+                 ]
+                 e:\vs\boost\boost_1_70_0\boost\random\uniform_int_distribution.hpp(248): 参见对正在编译的函数 模板 实例化“T boost::random::detail::generate_uniform_int<Engine,T>(Engine &,T,T,boost::mpl::true_)”的引用
+                 with
+                 [
+                     T=boost::multiprecision::int1024_t
+         ,            Engine=boost::random::mt19937
+                 ]
+                 e:\vs\boost\boost_1_70_0\boost\random\uniform_int_distribution.hpp(370): 参见对正在编译的函数 模板 实例化“T boost::random::detail::generate_uniform_int<Engine,IntType>(Engine &,T,T)”的引用
+                 with
+                 [
+                     T=boost::multiprecision::int1024_t
+         ,            Engine=boost::random::mt19937
+         ,            IntType=boost::multiprecision::int1024_t
+                 ]
+                 e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(126): 参见对正在编译的函数 模板 实例化“boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<1024,1024,signed_magnitude,unchecked,void>,et_off> boost::random::uniform_int_distribution<boost::multiprecision::int1024_t>::operator ()<boost::random::mt19937>(Engine &) const”的引用
+                 with
+                 [
+                     Engine=boost::random::mt19937
+                 ]
+                 e:\vs\c++\bagrsa\bagrsa\bagrsa.cpp(126): 参见对正在编译的函数 模板 实例化“boost::multiprecision::number<boost::multiprecision::backends::cpp_int_backend<1024,1024,signed_magnitude,unchecked,void>,et_off> boost::random::uniform_int_distribution<boost::multiprecision::int1024_t>::operator ()<boost::random::mt19937>(Engine &) const”的引用
+                 with
+                 [
+                     Engine=boost::random::mt19937
+                 ]
+         正在生成代码...
+         正在编译...
+         test.cpp
+         NOTE: Use of this header (boost/multiprecision/random.hpp) is deprecated: please use the random number library headers directly.
+         正在生成代码...
+     1>已完成生成项目“E:\VS\c++\BagRSA\BagRSA\BagRSA.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:17.74
