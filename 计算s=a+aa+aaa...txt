@@ -1,0 +1,26 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+#include<stdlib.h>
+
+//求s=a+aa+aaa+aaaa+aa...a的值，几个数相加由键盘控住
+
+int main()
+{
+	int n = 0;
+	int k = 0;
+	int count = 1;
+	int sum = 0;
+	int mul = 0;
+	printf("请输入你想实现的数字：");
+	scanf("%d %d", &n,&k);
+	while (count <= k)
+	{
+		n = n + mul;
+		sum = sum + n;
+		mul = n * 10;
+		count++;
+	}
+	printf("%d\n", sum);
+	system("pause");
+	return 0;
+}
